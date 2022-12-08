@@ -20,10 +20,11 @@ Link del video explicativo:
 
 
 Herramientas utilizadas:
-Python.
 
-Pandas.
+- Python
 
-Docker.
+- Pandas
 
-FastAPI.
+- Docker
+
+- FastAPI
