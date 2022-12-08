@@ -1,5 +1,8 @@
 # Bienvenidos a mi Proyecto I - Engineering
 
+INTRODUCCION:
+Mi nombre es Julio Postigo, en este caso vengo a mostrar un proyecto realizado en la etapa de Labs del curso de Data Science de Henry. 
+
 En este caso el proyecto consistia en una limpieza de datos a partir de 4 fuentes de datos distintas (3 archivos csv y 1 archivo json).
 
 En esta oportunidad decidi usar para todo el proceso de ETL la libreria pandas.
