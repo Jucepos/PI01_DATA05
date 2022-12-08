@@ -17,3 +17,13 @@ Link de acceso a la api:
 pi01-data05-prod-pi-engineering-cb1jq9.mo2.mogenius.io:80
 
 Link del video explicativo:
+
+
+Herramientas utilizadas:
+Python.
+
+Pandas.
+
+Docker.
+
+FastAPI.
