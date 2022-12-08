@@ -9,6 +9,7 @@ Con esta libreria tambien cree las funciones adecuadas para llevar a cabo las co
 Para hacerlas, localmente se uso fastApi con uvicorn, luego se utilizo un docker para montar la imagen y hacer el deploy en mogenious
 
 Link de acceso a la api:
+
 pi01-data05-prod-pi-engineering-cb1jq9.mo2.mogenius.io:80
 
 Link del video explicativo:
