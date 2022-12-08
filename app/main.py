@@ -33,7 +33,7 @@ async def index():
     <h3>Para conocer el actor/actriz que mas aparecio en una plataforma y año determinado:</h3>
     <p>/get_actor/plataforma/año - Por ej: /get_actor/Netflix/2018</p>
     <br/>
-    <h3>Luego de realizar alguna consulta, si desea volver a esta guía, elimine los decoradores.</h3>
+    <h3>Para volver, elimine los decoradores</h3>
 </body>
 </html>"""
 
