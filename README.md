@@ -39,6 +39,7 @@ Las consultas a realizar son:
 pi01-data05-prod-pi-engineering-cb1jq9.mo2.mogenius.io:80
 ***
 :bangbang: Link del video explicativo :bangbang:
+
 https://www.youtube.com/watch?v=a3-S00GrfPE&ab_channel=JulioPostigo
 
 ***
